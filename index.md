@@ -1,6 +1,6 @@
 # 封包流程說明
 
-* [Lobby](/lobby.md)
+* [Lobby](store-test/lobby.md)
 * [Baccarat(單桌)]()
 * [MultipleTable(多桌)]()
 
