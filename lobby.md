@@ -4,7 +4,7 @@
 
 ### 請求
 
-#### `login`
+### `login`
 ```shell
 請求登入, 回應0代表成功
 ```
@@ -17,13 +17,13 @@
 請求訂閱 各桌開放時間列表, 請求成功回應0, 之後會在訂閱中持續收到
 ```
 
-### 訂閱[create an anchor](#anchors-in-markdown)
+### 訂閱[create an anchor](#roadMapMessageReceived)
 
 #### `getUserCred`
 ```shell
 收到user初始資料
 ```
-### [Ready, set, GO!](#ready-set-go)
+### [Ready, set, GO!](#login)
 #### `itinitialCasinoTable`
 ```shell
 各table資料初始完成, 此時可以進入大廳
